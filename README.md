@@ -5,7 +5,7 @@ Apaixonado por tecnologia, atuo como Dev Full Stack.
 * 💻 Trabalho atualmente com: VueJS + Python/Flask
 * 📕 Aperfeiçando em: React + Next e NodeJS
 
-<div align="center">
+<div>
   <a href="https://github.com/silviorneto">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=silvioromano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
