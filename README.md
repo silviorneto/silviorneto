@@ -2,9 +2,6 @@
 
 Apaixonado por tecnologia, atuo como Dev Full Stack. 
 
-* 💻 Trabalho atualmente com: VueJS + Python/Flask
-* 📕 Aperfeiçando em: React + Next e NodeJS
-
 <div>
   <a href="https://github.com/silviorneto">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=silvioromano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,7 +17,6 @@ Apaixonado por tecnologia, atuo como Dev Full Stack.
   <img align="center" alt="Silvio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Silvio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Silvio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Silvio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 ## Contato
