@@ -1,6 +1,6 @@
 ### Hi! I'm Silvio! 👋
 
-I am a Backend Developer with over 3 years of experience in Python and Flask. I have worked on cybersecurity projects involving VPNs and Firewalls, and I am now focusing on scalable backend systems using Python, Java, and Golang. My passion lies in developing secure and efficient software solutions.
+I am a Backend Developer with over 4 years of experience in Python and Flask. I have worked on cybersecurity projects involving VPNs and Firewalls, and I am now focusing on scalable backend systems using Python, Java, and Golang. My passion lies in developing secure and efficient software solutions.
 
 
 <div>
